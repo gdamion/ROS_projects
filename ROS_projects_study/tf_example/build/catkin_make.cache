@@ -1,0 +1,2 @@
+tf_example
+-DCATKIN_DEVEL_PREFIX=/home/ax/Code/ROS_projects/task3_3/devel -DCMAKE_INSTALL_PREFIX=/home/ax/Code/ROS_projects/task3_3/install -G Unix Makefiles

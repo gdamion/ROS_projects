@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/workspace/install
+
+Name: hello_world
+Description: Description of hello_world
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ax/Code/ROS_projects/workspace/install/lib 
+Requires: 

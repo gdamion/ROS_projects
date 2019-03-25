@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/task2_1/install
+
+Name: package
+Description: Description of package
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ax/Code/ROS_projects/task2_1/install/lib 
+Requires: 

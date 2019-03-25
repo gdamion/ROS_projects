@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/service_use/devel
+
+Name: client_server
+Description: Description of client_server
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ax/Code/ROS_projects/service_use/devel/lib 
+Requires: 

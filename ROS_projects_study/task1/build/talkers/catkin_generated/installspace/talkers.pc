@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/workspace/install
+
+Name: talkers
+Description: Description of talkers
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ax/Code/ROS_projects/workspace/install/lib 
+Requires: 

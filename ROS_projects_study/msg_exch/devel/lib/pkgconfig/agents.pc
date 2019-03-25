@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/msg_exch/devel
+
+Name: agents
+Description: Description of agents
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ax/Code/ROS_projects/msg_exch/devel/lib 
+Requires: 

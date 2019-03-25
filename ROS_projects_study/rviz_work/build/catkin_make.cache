@@ -1,0 +1,2 @@
+rviz_manipulate
+-DCATKIN_DEVEL_PREFIX=/home/ax/Code/ROS_projects/rviz_work/devel -DCMAKE_INSTALL_PREFIX=/home/ax/Code/ROS_projects/rviz_work/install -G Unix Makefiles

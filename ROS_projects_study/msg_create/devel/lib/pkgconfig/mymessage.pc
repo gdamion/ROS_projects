@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/msg_create/devel
+
+Name: mymessage
+Description: Description of mymessage
+Version: 0.0.0
+Cflags: -I/home/ax/Code/ROS_projects/msg_create/devel/include
+Libs: -L/home/ax/Code/ROS_projects/msg_create/devel/lib 
+Requires: message_runtime

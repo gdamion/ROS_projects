@@ -1,0 +1,2 @@
+my_pkg
+-DCATKIN_DEVEL_PREFIX=/home/ax/Code/ROS_projects/task3_1_2/devel -DCMAKE_INSTALL_PREFIX=/home/ax/Code/ROS_projects/task3_1_2/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/task2_1_2/devel
+
+Name: subscriber
+Description: Description of subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ax/Code/ROS_projects/task2_1_2/devel/lib 
+Requires: 

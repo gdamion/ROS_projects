@@ -1,0 +1,2 @@
+client_server:my_service
+-DCATKIN_DEVEL_PREFIX=/home/ax/Code/ROS_projects/service_use/devel -DCMAKE_INSTALL_PREFIX=/home/ax/Code/ROS_projects/service_use/install -G Unix Makefiles

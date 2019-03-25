@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/rviz_work/devel
+
+Name: rviz_manipulate
+Description: Description of rviz_manipulate
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ax/Code/ROS_projects/rviz_work/devel/lib 
+Requires: 

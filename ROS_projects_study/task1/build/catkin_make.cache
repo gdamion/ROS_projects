@@ -1,0 +1,2 @@
+hello_world:talkers
+-DCATKIN_DEVEL_PREFIX=/home/ax/Code/ROS_projects/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/ax/Code/ROS_projects/workspace/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ax/Code/ROS_projects/service_use/devel
+
+Name: my_service
+Description: Description of my_service
+Version: 0.0.0
+Cflags: -I/home/ax/Code/ROS_projects/service_use/devel/include
+Libs: -L/home/ax/Code/ROS_projects/service_use/devel/lib 
+Requires: 

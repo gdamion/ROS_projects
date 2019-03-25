@@ -1,0 +1,2 @@
+agents
+-DCATKIN_DEVEL_PREFIX=/home/ax/Code/ROS_projects/msg_exch/devel -DCMAKE_INSTALL_PREFIX=/home/ax/Code/ROS_projects/msg_exch/install -G Unix Makefiles
